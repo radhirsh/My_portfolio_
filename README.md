@@ -22,7 +22,7 @@ Welcome to my portfolio! Here, you'll find information about me, my projects, sk
 
 ## 🌟 About Me
 
-![Profile Picture](img/profile-pic.jpg)
+![Profile Picture](img\DSC_1148 -3-1.jpg)
 
 I'm Sridhar S, a passionate Student and Data Software Engineering Aspirant. I'm dedicated to leveraging technology for impactful problem-solving. Currently pursuing a Bachelor's in AI and Data Science.
 
